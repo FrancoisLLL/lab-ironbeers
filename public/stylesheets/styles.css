@@ -5,3 +5,23 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: grey;
+}
+.img-beer {
+    height: 50vh;
+}
+
+.button {
+    text-decoration: none;
+    height: 20px;
+    background-color: blue;
+    text-align: center;
+}
+
+div {
+    border: 2px solid fuchsia;
+}

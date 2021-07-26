@@ -1,0 +1,35 @@
+{
+    id: 19,
+    name: 'Hello My Name Is Mette-Marit',
+    tagline: 'Lingonberry Double IPA.',
+    first_brewed: '06/2013',
+    description: "We sent this beer to Norway where it was known as 'Hello, my name is Censored’. You can make up your own mind as to why. This brew was a red berry explosion, with a reisnous bitter edge layered with dry berry tartness.",
+    image_url: 'https://images.punkapi.com/v2/19.png',
+    abv: 8.2,
+    ibu: 70,
+    target_fg: 1013,
+    target_og: 1076,
+    ebc: null,
+    srm: null,
+    ph: 4.4,
+    attenuation_level: 83,
+    volume: { value: 20, unit: 'litres' },
+    boil_volume: { value: 25, unit: 'litres' },
+    method: {
+      mash_temp: [Array],
+      fermentation: [Object],
+      twist: 'Infusion of lingonberries alongside the dry hops, Cranberry Juice: 5.5g at 30mins, Lingonberries: 10g Twist'
+    },
+    ingredients: {
+      malt: [Array],
+      hops: [Array],
+      yeast: 'Wyeast 1056 - American Ale™'
+    },
+    food_pairing: [
+      'Fårikål (mutton stew) with a spicy twist',
+      'Fenalår (salted cured lamb)',
+      'Krumkake with lingonberry jam'
+    ],
+    brewers_tips: 'Using crushed cranberries will dry out the beer further, drawing out their natural astringent character.',
+    contributed_by: 'Sam Mason <samjbmason>'
+  }
